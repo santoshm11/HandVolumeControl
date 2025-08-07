@@ -3,24 +3,24 @@ Hand Gesture-Based System Volume Control This project allows you to control your
 
 Features:
 
-Real-time hand detection using webcam.
+    - Real-time hand detection using webcam.
 
-Gesture-based volume control (thumb–index finger distance).
+    - Gesture-based volume control (thumb–index finger distance).
 
-Smooth and responsive volume adjustments.
+    - Smooth and responsive volume adjustments.
 
-Works on Windows, macOS, and Linux.
+    - Works on Windows, macOS, and Linux.
 
 Technologies Used:
 
-Python
+    - Python
 
-OpenCV
+    - OpenCV
 
-MediaPipe
+    - MediaPipe
 
-Pycaw (for Windows system volume control)
+    - Pycaw (for Windows system volume control)
 
 Use Case:
 
-Touchless volume control for presentations, music, or accessibility purposes.
+    - Touchless volume control for presentations, music, or accessibility purposes.
